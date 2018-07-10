@@ -1,0 +1,49 @@
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\HomeMedicines.exe.config
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\HomeMedicines.exe
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\HomeMedicines.pdb
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.csprojResolveAssemblyReference.cache
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.MainForm.resources
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.Properties.Resources.resources
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.csproj.GenerateResource.Cache
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.csproj.CoreCompileInputs.cache
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.exe
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.pdb
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\EntityFramework.dll
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\System.Data.SQLite.dll
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\EntityFramework.xml
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\System.Data.SQLite.xml
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\HomeMedicines.exe.manifest
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\HomeMedicines.application
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.exe.manifest
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.application
+C:\Users\smol\Documents\Visual Studio 2017\Projects\HomeMedicines\HomeMedicines\bin\Debug\SQLite.Interop.dll
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\SQLite.Interop.dll
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\HomeMedicines.exe.config
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\HomeMedicines.exe.manifest
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\HomeMedicines.application
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\HomeMedicines.exe
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\HomeMedicines.pdb
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\EntityFramework.dll
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\EntityFramework.SqlServer.dll
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\System.Data.SQLite.dll
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\System.Data.SQLite.EF6.dll
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\System.Data.SQLite.Linq.dll
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\EntityFramework.xml
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\EntityFramework.SqlServer.xml
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\System.Data.SQLite.xml
+F:\VS2017\HomeMedicines\HomeMedicines\bin\Debug\System.Data.SQLite.dll.config
+F:\VS2017\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.csprojResolveAssemblyReference.cache
+F:\VS2017\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.MainForm.resources
+F:\VS2017\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.Properties.Resources.resources
+F:\VS2017\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.csproj.GenerateResource.Cache
+F:\VS2017\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.csproj.CoreCompileInputs.cache
+F:\VS2017\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.exe.manifest
+F:\VS2017\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.application
+F:\VS2017\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.exe
+F:\VS2017\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.pdb
+F:\VS2017\HomeMedicines\HomeMedicines\obj\Debug\HomeMedicines.csproj.CopyComplete

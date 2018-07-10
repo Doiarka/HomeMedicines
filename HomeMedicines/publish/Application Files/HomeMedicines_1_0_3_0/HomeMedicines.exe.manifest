@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="HomeMedicines.exe" version="1.0.3.0" publicKeyToken="e62b4c7c5c5c9578" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="ico_main.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="HomeMedicines" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="HomeMedicines.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="5196496">
+      <assemblyIdentity name="EntityFramework" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7W69dJBS+QGPZplnGuVGmt7fCGz4sb1CVrvpxOf2/wU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="621264">
+      <assemblyIdentity name="EntityFramework.SqlServer" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ob9snjgg6D9D6fIN19mwozYqkxRvCv4LEzAYXi1RsMs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HomeMedicines.exe" size="1140656">
+      <assemblyIdentity name="HomeMedicines" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Y31WBlG+XfwSyHgSTDaoWm28wpgogF2ouJrdV25cAV8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SQLite.dll" size="312832">
+      <assemblyIdentity name="System.Data.SQLite" version="1.0.105.2" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>bYBbQW+Fxy9PydLAqQeOzVcb5+ZKkuSf37b4fT7HehA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SQLite.EF6.dll" size="184320">
+      <assemblyIdentity name="System.Data.SQLite.EF6" version="1.0.105.2" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kclhuVWWAzxSvn7/a8UdOH6fxBDNl910L+F65xGEjZU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SQLite.Linq.dll" size="184320">
+      <assemblyIdentity name="System.Data.SQLite.Linq" version="1.0.105.2" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3VkiLq9CMvhWTcvlRR+gRHThv5Ac8hbmtrUmDbcxy+w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="HomeMedicines.exe.config" size="1762">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Q+U47NKb3VeFuC+50b3qKXkThDZKNLFrQXrOmgSbRYw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ico_main.ico" size="16958">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lZlSXTlqLxFWM5LjTkHOFwu+5+Izsq6sBEewxOeL+Ko=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Map.html" size="2795">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8YDk6un0D7pAqwZar7Kz7lExKoDvzhllCDeHIaQm7RA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SQLite.Interop.dll" size="1469952">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hHTpT47hl8Ff5OI5WD+UvTLZuYA8CZSQBgaKxYOdXxU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=RUBILNIK\smol" issuerKeyHash="86fe1283a6cb92514a7cf8a35fb5db65aa3e871c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>z2AA10rJDrPhl/y3vnnnfPxoYiJ1ttgaFxOp8OYjdkI=</DigestValue></Reference></SignedInfo><SignatureValue>Oo+BCmduzqsxK6rQO79N1sk9NFQzKOm28gcSMBuC9ZDbUauPZlf/aZe3SD+Ca1yA11uu/8qbltJmiEycmvRB4hwmTaqYq+N5E+ZkYsLiq4gNwWnMsTjNh14A+69izzYLvwVsJSBEFhu0bVADIIkNZLdZw9f8yAAi095h/eC0PyU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>t4/jjpkNLXJ71MRmuhuYafJ+YHrgnHXOr/kdvZ58Zml5XzMKPEmwELlf4BxmtFJhS0rr98FKkaRTyjzP5WFOvr1/ry957yqahxHmwxnuCPmRe3hINOeE4KjBHv7Wp7BvzZOumMH2gl3DlrjMSMcsh3Cq7kkJ+hzWUk96LquMNPU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="427623e6f0a913171ad8b675226268fc7ce779beb7fc97e1b30ec94ad70060cf" Description="" Url=""><as:assemblyIdentity name="HomeMedicines.exe" version="1.0.3.0" publicKeyToken="e62b4c7c5c5c9578" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=RUBILNIK\smol</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>nuIfVk5m7f4ZPhKLbjCHLdV5ZJIaAMdiJamapoubBd8=</DigestValue></Reference></SignedInfo><SignatureValue>jhjfZM0PU0FOJGexI70spd2cjnbBYw1ZJqwx5wSScc9Lb7ZYAd/CAZSaaVT+4fZ2fI2fc1XKtT3m4UypCa+UcEVAWPm9tHqIKXvrA5Phy7Xf0tmyUSyulpEO82OBkXSEzyX8bmaZWVrFN6Q4IAGzBHlMpb+baY+i7jeO0l1CEfA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>t4/jjpkNLXJ71MRmuhuYafJ+YHrgnHXOr/kdvZ58Zml5XzMKPEmwELlf4BxmtFJhS0rr98FKkaRTyjzP5WFOvr1/ry957yqahxHmwxnuCPmRe3hINOeE4KjBHv7Wp7BvzZOumMH2gl3DlrjMSMcsh3Cq7kkJ+hzWUk96LquMNPU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQUKMwwUs0/LVMcOAVls/ihzANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAUgBVAEIASQBMAE4ASQBLAFwAcwBtAG8AbDAeFw0xNzA5MTIxMjQ2NDBaFw0xODA5MTIxODQ2NDBaMCUxIzAhBgNVBAMeGgBSAFUAQgBJAEwATgBJAEsAXABzAG0AbwBsMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3j+OOmQ0tcnvUxGa6G5hp8n5geuCcdc6v+R29nnxmaXlfMwo8SbAQuV/gHGa0UmFLSuv3wUqRpFPKPM/lYU6+vX+vL3nvKpqHEebDGe4I+ZF7eEg054TgqMEe/tansG/Nk66YwfaCXcOWuMxIxyyHcKruSQn6HNZST3ouq4w09QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAIbekAhy5vs9BJLZ/DA8tuwfZgHjMfspjHgGGbeOa/7AMj8Aa5sMw8iVu2v0bXxqMUjertyBuc+qsvh9YgpRfwISMkcaXLZPGP1KpFrWDS/xtSfaj+P/fzRkwky6eeHFDPQlqh4/+2I3Lg4vJUecwafE2cksRADEGDn+QfJli+0g</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
